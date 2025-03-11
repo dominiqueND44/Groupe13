@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\",
   "Documents": [
     {
@@ -69,6 +70,21 @@
     {
       "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
     }
   ],
   "DocumentGroupContainers": [
@@ -78,6 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -145,11 +162,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T13:44:17.281Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "loginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "RelativeToolTip": "loginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:56.238Z",
+>>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "CoursMatieres.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
@@ -158,10 +191,20 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T15:14:34.527Z",
+=======
+              "Title": "loginForm.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "RelativeDocumentMoniker": "loginForm.resx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "RelativeToolTip": "loginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-10T14:50:54.586Z",
+>>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "ProfesseursClasses.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
@@ -300,6 +343,18 @@
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T12:46:49.382Z"
+=======
+              "DocumentIndex": 2,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "RelativeDocumentMoniker": "loginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "RelativeToolTip": "loginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:50:19.091Z",
+              "EditorCaption": ""
+>>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
             }
           ]
         }
