@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\syst\u00E8me de gestion des \u00E9tudiants - groupe 13\\syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\syst\u00E8me de gestion des \u00E9tudiants\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA8wBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:05:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:20:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Groupe 13\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:16:44.764Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
