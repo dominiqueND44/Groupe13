@@ -1,0 +1,232 @@
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Form1.resources
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.premiere_migration.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.premiere_migration.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Copie\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.loginForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.loginForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.Myfirst_migration.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ClassesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.DashboardForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.EtudiantsForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.NotesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ProfesseurForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.UsersForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.OTPForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssociationCoursMatièresProfesseuràClasseForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurClassesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurMatieresForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.MatiereForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.CoursForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurClassesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurMatieresForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ClassesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.DashboardForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.EtudiantsForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.loginForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.MatiereForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.CoursForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.Myfirst_migration.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.NotesForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.OTPForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ProfesseurForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.UsersForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssociationCoursMatieresProfesseuràClasseForm.resources
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Twilio.dll
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Desktop\Système de Gestion des Étudiants - Groupe 13\Système de Gestion des Étudiants\bin\Debug\Twilio.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.ValueTuple.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Twilio.dll
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Buffers.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Memory.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\System.ValueTuple.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\bin\Debug\Twilio.xml
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssociationCoursMatieresProfesseuràClasseForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurClassesForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AssocProfesseurMatieresForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ClassesForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.DashboardForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.EtudiantsForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.loginForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.MatiereForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.CoursForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.NotesForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.OTPForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.ProfesseurForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.UsersForm.resources
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\Groupe13-main\Groupe13-main\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.AjoutMatieresCoursForm.resources
