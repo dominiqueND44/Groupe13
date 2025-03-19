@@ -16,5 +16,15 @@ namespace Système_de_Gestion_des_Étudiants
         {
             InitializeComponent();
         }
+
+        private void ModifierProfesseur_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AjoutProfesseur_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

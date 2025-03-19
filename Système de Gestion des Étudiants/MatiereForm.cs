@@ -16,5 +16,10 @@ namespace Système_de_Gestion_des_Étudiants
         {
             InitializeComponent();
         }
+
+        private void AjoutMatiere_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

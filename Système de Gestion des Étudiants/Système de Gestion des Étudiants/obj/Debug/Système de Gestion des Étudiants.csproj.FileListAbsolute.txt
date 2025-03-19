@@ -14,3 +14,19 @@ C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\
 C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
 C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb
 C:\Users\HP\Documents\C#\Examen 1er Semestre\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.premiere_migration.resources
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe.config
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.exe
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\Système de Gestion des Étudiants.pdb
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Form1.resources
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Migrations.premiere_migration.resources
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Syst_me .1BE02261.Up2Date
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.exe
+C:\Users\HP\Desktop\Groupe13\Système de Gestion des Étudiants\Système de Gestion des Étudiants\obj\Debug\Système de Gestion des Étudiants.pdb

@@ -101,10 +101,10 @@
             // 
             // textBoxMotdepasse
             // 
-            this.textBoxMotdepasse.Location = new System.Drawing.Point(728, 294);
+            this.textBoxMotdepasse.Location = new System.Drawing.Point(762, 295);
             this.textBoxMotdepasse.Multiline = true;
             this.textBoxMotdepasse.Name = "textBoxMotdepasse";
-            this.textBoxMotdepasse.Size = new System.Drawing.Size(406, 44);
+            this.textBoxMotdepasse.Size = new System.Drawing.Size(372, 44);
             this.textBoxMotdepasse.TabIndex = 8;
             // 
             // label4

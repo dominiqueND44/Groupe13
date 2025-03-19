@@ -39,6 +39,11 @@ namespace Système_de_Gestion_des_Étudiants
                 MessageBox.Show("Le code OTP est invalide ou expiré !");
             }
         }
+
+        private void OTPForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
   

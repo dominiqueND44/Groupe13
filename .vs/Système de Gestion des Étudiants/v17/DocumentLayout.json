@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Groupe13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\otpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\otpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\otpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\otpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503192017047_second_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503192017047_second_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\coursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\coursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\matiereform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\matiereform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\notesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\notesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\associationcoursmatieresprofesseur\u00E0classeform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\EtudiantsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\classesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\usersform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\usersform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\matiereform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\matiereform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\matiereform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\matiereform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiantsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\matiereform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\matiereform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:48.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:49:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:16:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:36:59.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:49:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OTPForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:33:36.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OTPForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:33:14.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:26:11.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202503192017047_second_migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503192017047_second_migration.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503192017047_second_migration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503192017047_second_migration.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503192017047_second_migration.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:17:20.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:20:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "loginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:25:43.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loginForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA5wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:25:51.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EtudiantsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:43:02.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EtudiantsForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-19T19:31:37.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassesCours.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:57:58.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:27:29.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfesseursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:50:41.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:50:15.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoursForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:20:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MatiereForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:30:15.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotesForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:32.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssociationCoursMatieresProfesseur\u00E0ClasseForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssociationCoursMatieresProfesseur\u00E0ClasseForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\AssociationCoursMatieresProfesseur\u00E0ClasseForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:31.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EtudiantsForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\EtudiantsForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\EtudiantsForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\EtudiantsForm.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\EtudiantsForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClassesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClassesForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "loginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "loginForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:31.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MatiereForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:31.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MatiereForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EtudiantsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.Designer.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T23:42:30.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EtudiantsForm.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.resx",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.resx",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.resx",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\EtudiantsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T23:42:30.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MatiereForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\MatiereForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:30:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs*",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:29:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs [Design]*",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\UsersForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:29:01.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:26:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:26:11.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -214,9 +214,9 @@
     <Compile Include="CoursForm.Designer.cs">
       <DependentUpon>CoursForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202503070424235_Myfirst_migration.cs" />
-    <Compile Include="Migrations\202503070424235_Myfirst_migration.Designer.cs">
-      <DependentUpon>202503070424235_Myfirst_migration.cs</DependentUpon>
+    <Compile Include="Migrations\202503192017047_second_migration.cs" />
+    <Compile Include="Migrations\202503192017047_second_migration.Designer.cs">
+      <DependentUpon>202503192017047_second_migration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
@@ -279,8 +279,8 @@
     <EmbeddedResource Include="CoursForm.resx">
       <DependentUpon>CoursForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202503070424235_Myfirst_migration.resx">
-      <DependentUpon>202503070424235_Myfirst_migration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202503192017047_second_migration.resx">
+      <DependentUpon>202503192017047_second_migration.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NotesForm.resx">
       <DependentUpon>NotesForm.cs</DependentUpon>

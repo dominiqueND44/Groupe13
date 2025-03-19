@@ -7,13 +7,13 @@ namespace Système_de_Gestion_des_Étudiants.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.5.1")]
-    public sealed partial class Myfirst_migration : IMigrationMetadata
+    public sealed partial class second_migration : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Myfirst_migration));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(second_migration));
         
         string IMigrationMetadata.Id
         {
-            get { return "202503070424235_Myfirst_migration"; }
+            get { return "202503192017047_second_migration"; }
         }
         
         string IMigrationMetadata.Source

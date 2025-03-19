@@ -1,89 +1,74 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503062112343_premiere_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503062112343_premiere_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\dbgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\dbgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\groupe13\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\professeursclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\coursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\classescours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\dbgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\dbgestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503062112343_premiere_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\202503062112343_premiere_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\professeursmatieres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\documents\\c#\\examen 1er semestre\\syst\u00E8me de gestion des \u00E9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\syst\u00E8me de gestion des \u00E9tudiants\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-=======
-  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Copie\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
     }
   ],
   "DocumentGroupContainers": [
@@ -93,265 +78,211 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:39:23.524Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Matiere.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Matiere.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:44:34.608Z",
-              "IsPinned": true,
-=======
-          "SelectedChildIndex": 2,
-          "Children": [
+              "WhenOpened": "2025-03-19T19:59:55.577Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "loginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
-              "RelativeDocumentMoniker": "loginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.Designer.cs",
-              "RelativeToolTip": "loginForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:51:07.251Z",
->>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< HEAD
-              "Title": "202503062112343_premiere_migration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T21:12:48.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DBGestionContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:35:18.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.577Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ClassesCours.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:04:46.166Z",
-=======
-              "Title": "loginForm.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
-              "RelativeDocumentMoniker": "loginForm.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\loginForm.cs",
-              "RelativeToolTip": "loginForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2025-03-19T19:59:55.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T03:51:02.106Z",
->>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:59:55.577Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-<<<<<<< HEAD
-              "Title": "Classe.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Classe.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Title": "ProfesseursClasses.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:37:20.996Z",
+              "WhenOpened": "2025-03-19T19:59:55.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Cours.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Cours.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAtAAAAAAAAAA==",
+              "Title": "ClassesCours.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ClassesCours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:44:17.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CoursMatieres.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\CoursMatieres.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:14:34.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProfesseursMatieres.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Title": "DBGestionContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\DBGestionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:42:10.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Title": "202503062112343_premiere_migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\202503062112343_premiere_migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T20:52:34.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ProfesseursClasses.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursClasses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "ProfesseursMatieres.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\ProfesseursMatieres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T15:46:40.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-06T20:29:55.642Z",
-              "EditorCaption": ""
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Etudiant.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
-              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Etudiant.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA4wBcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:36:17.601Z",
-              "EditorCaption": ""
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\App.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Utilisateur.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Utilisateur.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:40:09.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "OTPCode.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\OTPCode.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:06:09.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Professeur.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
               "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Professeur.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA+wA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:38:41.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Groupe13\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs",
               "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs [Design]",
-              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\C#\\Examen 1er Semestre\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T12:46:49.382Z"
-=======
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Copie\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "..\\..\\Syst\u00E8me de Gestion des \u00C9tudiants - Copie\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Syst\u00E8me de Gestion des \u00C9tudiants - Copie\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.Designer.cs",
-              "RelativeToolTip": "..\\..\\Syst\u00E8me de Gestion des \u00C9tudiants - Copie\\Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants\\Form1.Designer.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:23:44.741Z"
->>>>>>> ac3c83c (Implementation des forms et logique de connexion des users avec message A2P Twilio)
+              "WhenOpened": "2025-03-19T19:59:55.844Z"
             }
           ]
         }
