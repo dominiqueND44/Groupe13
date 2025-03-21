@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\rapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|c:\\users\\hp\\desktop\\projectc#\\groupe13-main\\syst\u00E8me de gestion des \u00E9tudiants\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5727F455-75B2-4B9E-8647-D0798479E5FE}|Syst\u00E8me de Gestion des \u00C9tudiants\\Syst\u00E8me de Gestion des \u00C9tudiants.csproj|solutionrelative:syst\u00E8me de gestion des \u00E9tudiants\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\FormManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:00:43.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rapport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Rapport.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Rapport.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Rapport.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Rapport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:00:18.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:36:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\Note.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:19:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:14:37.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "RelativeDocumentMoniker": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\ProjectC#\\Groupe13-main\\Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs [Design]",
+              "RelativeToolTip": "Syst\u00E8me de Gestion des \u00C9tudiants\\NotesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:51:28.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
