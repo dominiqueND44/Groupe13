@@ -1,0 +1,126 @@
+-- Création de la base de données
+CREATE DATABASE DBGestion;
+GO
+
+-- Utilisation de la base de données
+USE DBGestion;
+GO
+
+-- Table Classes
+CREATE TABLE Classes (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    NomClasse NVARCHAR(100) NOT NULL
+);
+GO
+
+-- Table Étudiants
+CREATE TABLE Étudiants (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Matricule NVARCHAR(50) NOT NULL,
+    Nom NVARCHAR(100) NOT NULL,
+    Prénom NVARCHAR(100) NOT NULL,
+    DateNaissance DATETIME NOT NULL,
+    Sexe NVARCHAR(10) NOT NULL,
+    Adresse NVARCHAR(255) NOT NULL,
+    Telephone NVARCHAR(20) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    IdClasse INT,
+    FOREIGN KEY (IdClasse) REFERENCES Classes(Id)
+);
+GO
+
+-- Table Cours
+CREATE TABLE Cours (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    NomCours NVARCHAR(100) NOT NULL,
+    Description NVARCHAR(255)
+);
+GO
+
+-- Table Matières
+CREATE TABLE Matières (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    NomMatière NVARCHAR(100) NOT NULL
+);
+GO
+
+-- Table Professeurs
+CREATE TABLE Professeurs (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nom NVARCHAR(100) NOT NULL,
+    Prénom NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    Telephone NVARCHAR(20) NOT NULL
+);
+GO
+
+-- Table Notes
+CREATE TABLE Notes (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    IdÉtudiant INT,
+    IdMatière INT,
+    Note FLOAT,
+    FOREIGN KEY (IdÉtudiant) REFERENCES Étudiants(Id),
+    FOREIGN KEY (IdMatière) REFERENCES Matières(Id)
+);
+GO
+
+-- Table Utilisateurs
+CREATE TABLE Utilisateurs (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    NomUtilisateur NVARCHAR(100) NOT NULL,
+    MotDePasse NVARCHAR(100) NOT NULL,
+    Role NVARCHAR(50) NOT NULL CHECK (Role IN ('Administrateur', 'DE', 'Agent', 'Professeur')),
+    Telephone NVARCHAR(20) NOT NULL
+);
+GO
+
+-- Table OTPCodes
+CREATE TABLE OTPCodes (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    IdUtilisateur INT,
+    Code NVARCHAR(10) NOT NULL,
+    DateExpiration DATETIME NOT NULL,
+    FOREIGN KEY (IdUtilisateur) REFERENCES Utilisateurs(Id)
+);
+GO
+
+-- Table de liaison ClassesCours
+CREATE TABLE ClassesCours (
+    IdClasse INT,
+    IdCours INT,
+    PRIMARY KEY (IdClasse, IdCours),
+    FOREIGN KEY (IdClasse) REFERENCES Classes(Id),
+    FOREIGN KEY (IdCours) REFERENCES Cours(Id)
+);
+GO
+
+-- Table de liaison CoursMatières
+CREATE TABLE CoursMatières (
+    IdCours INT,
+    IdMatière INT,
+    PRIMARY KEY (IdCours, IdMatière),
+    FOREIGN KEY (IdCours) REFERENCES Cours(Id),
+    FOREIGN KEY (IdMatière) REFERENCES Matières(Id)
+);
+GO
+
+-- Table de liaison ProfesseursMatières
+CREATE TABLE ProfesseursMatières (
+    IdProfesseur INT,
+    IdMatière INT,
+    PRIMARY KEY (IdProfesseur, IdMatière),
+    FOREIGN KEY (IdProfesseur) REFERENCES Professeurs(Id),
+    FOREIGN KEY (IdMatière) REFERENCES Matières(Id)
+);
+GO
+
+-- Table de liaison ProfesseursClasses
+CREATE TABLE ProfesseursClasses (
+    IdProfesseur INT,
+    IdClasse INT,
+    PRIMARY KEY (IdProfesseur, IdClasse),
+    FOREIGN KEY (IdProfesseur) REFERENCES Professeurs(Id),
+    FOREIGN KEY (IdClasse) REFERENCES Classes(Id)
+);
+GO

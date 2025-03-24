@@ -1,0 +1,107 @@
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Système de Gestion des Étudiants.exe.config
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Système de Gestion des Étudiants.pdb
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\BCrypt.Net-Next.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EntityFramework.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EPPlus.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EPPlus.Interfaces.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EPPlus.System.Drawing.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\itextsharp.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.Memory.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.TimeProvider.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Buffers.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Memory.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Numerics.Vectors.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Text.Json.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.ValueTuple.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Twilio.dll
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\BCrypt.Net-Next.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EntityFramework.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\EPPlus.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\itextsharp.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.Memory.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Bcl.TimeProvider.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Buffers.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.IO.Pipelines.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Memory.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Numerics.Vectors.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Text.Json.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\System.ValueTuple.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\bin\Release\Twilio.xml
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système de Gestion des Étudiants.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.AjoutMatieresCoursForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.AssociationCoursMatieresProfesseuràClasseForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.AssocProfesseurClassesForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.AssocProfesseurMatieresForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.ClassesForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.DashboardForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.EtudiantsForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.GenererListeEtuClasse.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.GenererListeMeilleureEtu.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.GenererReleveEtu.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.loginForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.MatiereForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.CoursForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.CorrigerNomsColonnes.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.AddIdClasseToProfesseursClasses.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.AjoutCoursMatieresProfesseursClasses.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.AjoutdecoursdanslatablenouvelleCree.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.RenommerColonnes.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Migrations.ModifierTypeNote.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.NotesForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.OTPForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.ProfesseurForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Properties.Resources.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.Rapport.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système_de_Gestion_des_Étudiants.UsersForm.resources
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système de Gestion des Étudiants.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système de Gestion des Étudiants.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Syst_me .1BE02261.Up2Date
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système de Gestion des Étudiants.exe
+C:\Users\hp\Desktop\ProjectC#\Groupe13-main\Système de Gestion des Étudiants\obj\Release\Système de Gestion des Étudiants.pdb
